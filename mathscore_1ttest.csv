@@ -1,0 +1,25 @@
+gender,race/ethnicity,lunch,test preparation course,math score,reading score,writing score,total score,training institute
+female,group C,standard,none,60,72,74,206,Nature Learning
+female,group C,standard,none,59,72,68,199,Nature Learning
+female,group E,standard,none,100,100,100,300,Speak Global Learning
+female,group D,standard,none,69,74,74,217,Speak Global Learning
+female,group A,free/reduced,none,47,59,50,156,Speak Global Learning
+female,group B,free/reduced,none,46,61,55,162,Speak Global Learning
+female,group C,standard,completed,64,82,77,223,Speak Global Learning
+female,group E,standard,none,74,81,71,226,Nature Learning
+female,group B,standard,completed,69,76,74,219,Speak Global Learning
+female,group D,free/reduced,completed,58,63,73,194,Speak Global Learning
+female,group D,free/reduced,none,49,65,61,175,Speak Global Learning
+female,group B,standard,none,62,67,67,196,Speak Global Learning
+female,group E,free/reduced,completed,75,88,85,248,Nature Learning
+female,group D,standard,none,74,89,84,247,Speak Global Learning
+female,group B,free/reduced,completed,76,94,87,257,Speak Global Learning
+female,group C,standard,none,65,72,74,211,Speak Global Learning
+female,group A,free/reduced,none,61,60,57,178,Speak Global Learning
+female,group E,standard,none,65,73,75,213,Nature Learning
+female,group D,standard,none,63,64,67,194,Speak Global Learning
+female,group B,standard,none,74,72,72,218,Speak Global Learning
+female,group C,free/reduced,completed,74,86,89,249,Speak Global Learning
+female,group D,free/reduced,none,63,73,78,214,Speak Global Learning
+female,group C,standard,none,81,77,79,237,Speak Global Learning
+female,group D,free/reduced,none,67,84,84,235,Speak Global Learning

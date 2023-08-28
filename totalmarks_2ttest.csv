@@ -1,0 +1,34 @@
+gender,race/ethnicity,lunch,test preparation course,math score,reading score,writing score,total score,training institute
+male,group E,standard,completed,84,83,78,245,Speak Global Learning
+male,group C,free/reduced,completed,79,77,75,231,Speak Global Learning
+male,group A,standard,none,91,96,92,279,Nature Learning
+female,group B,free/reduced,completed,76,94,87,257,Speak Global Learning
+male,group A,standard,completed,46,41,43,130,Nature Learning
+female,group C,standard,completed,70,82,76,228,Speak Global Learning
+male,group C,standard,none,79,78,77,234,Speak Global Learning
+male,group D,standard,none,88,77,77,242,Nature Learning
+female,group E,standard,none,62,73,70,205,Speak Global Learning
+female,group B,standard,completed,60,70,74,204,Nature Learning
+male,group B,standard,none,65,54,57,176,Speak Global Learning
+male,group D,free/reduced,none,52,57,50,159,Nature Learning
+female,group B,standard,none,53,58,65,176,Speak Global Learning
+male,group D,standard,completed,58,59,58,175,Speak Global Learning
+female,group D,free/reduced,none,46,56,57,159,Speak Global Learning
+female,group D,standard,none,62,64,64,190,Speak Global Learning
+female,group D,free/reduced,completed,69,86,81,236,Speak Global Learning
+female,group B,standard,none,66,72,70,208,Nature Learning
+female,group B,free/reduced,completed,67,80,81,228,Speak Global Learning
+female,group E,standard,none,68,70,66,204,Speak Global Learning
+female,group D,standard,none,68,71,75,214,Speak Global Learning
+male,group E,standard,completed,81,81,79,241,Speak Global Learning
+male,group D,standard,none,75,68,64,207,Nature Learning
+female,group D,free/reduced,completed,42,61,58,161,Speak Global Learning
+male,group D,standard,completed,85,81,85,251,Nature Learning
+female,group C,standard,completed,60,64,74,198,Nature Learning
+male,group D,standard,none,66,69,63,198,Nature Learning
+female,group B,free/reduced,none,52,76,70,198,Nature Learning
+female,group C,free/reduced,none,48,58,52,158,Nature Learning
+female,group D,standard,completed,56,68,74,198,Speak Global Learning
+female,group B,standard,none,41,55,51,147,Nature Learning
+male,group C,standard,none,67,57,59,183,Nature Learning
+male,group E,free/reduced,completed,79,74,72,225,Speak Global Learning
